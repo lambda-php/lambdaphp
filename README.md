@@ -12,7 +12,11 @@ git clone https://github.com/lambda-php/lambdaphp
 
 then cd into using the comand 
 
-cd lambdaphp 
+cd lambdaphp
+
+THen you needed to add exiute to setup.sh using chmod
+
+chmod 755 setup.sh
 
 Then the last comand is to run the setup.sh comand by
 
