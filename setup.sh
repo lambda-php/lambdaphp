@@ -11,6 +11,8 @@ echo ".......FINSHED INSTALLLING PHP ........"
 echo ".......adding /tmp/layer ........"
 mkdir /tmp/layer
 cd /tmp/layer
+pwd
+ls -al
 echo ".......FINSHED /tmp/layer ........"
 
 exit
