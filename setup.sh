@@ -15,4 +15,11 @@ pwd
 ls -al
 echo ".......FINSHED /tmp/layer ........"
 
+echo ".......adding /bin/ and php ........"
+mkdir bin
+pwd
+cp /usr/bin/php bin/
+ls -al
+echo ".......FINSHED /bin/ and php ........"
+
 exit
